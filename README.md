@@ -1,16 +1,55 @@
-### Hi there 👋
 
-<!--
-**imharris24/imharris24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Muhammad Harris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">I am an undergraduate student at Capital University of Science and Technology pursuing Bachelors in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br>
 
-Here are some ideas to get you started:
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imharris24&theme=algolia" alt="imharris24"  /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 📊 Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imharris24&show_icons=true&locale=en&layout=compact&theme=algolia" alt="imharris24" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/imharris24"><img alt="Harris's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imharris24&custom_title=Muhammad%20Harris's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:harris20014@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/imharris24"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://instagram.com/im_harrisg"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+<br/>
+
+🐍 Yo! Look at this snake eating up my contributions!
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+<br/>
+
+<hr/>
