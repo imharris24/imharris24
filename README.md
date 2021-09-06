@@ -10,7 +10,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imharris24&hide_border=true&theme=slateorange&bg_color=00000000" alt="imharris24"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imharris24&hide_border=true&theme=slateorange&background=FFFFFF00" alt="imharris24"  /></p>
 
 <br/>
 
