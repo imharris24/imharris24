@@ -42,15 +42,15 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:harris20014@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/imharris24"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/im_harrisg"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:harris20014@gmail.com"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/github.png" alt="Gmail"/></a>
+	<a href="https://github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/gmail.png" alt="GitHub"/></a>
+	<a href="https://instagram.com/im_harrisg"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/instagram.png" alt="Instagram"/></a>
 </p>
 
 ## 🐍 Snake Eating My Github Contributions!
 <br/>
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/imharris24/imharris24/blob/main/Resouces/github-contribution-grid-snake.gif)
 <br/>
 
 <hr/>
