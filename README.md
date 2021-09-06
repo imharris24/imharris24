@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a>
+</p>
 
 <h1 align="center">Hi , I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Resouces/HandWave.gif" width="35"></h1>
 <p align="center">
