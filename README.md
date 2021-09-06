@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi , I'm Muhammad Harris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Resouces/HandWave.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am an undergraduate student at Capital University of Science and Technology pursuing Bachelors in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -19,7 +19,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/imharris24/"><img alt="Harris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imharris24&show_icons=true&locale=en&layout=compact&theme=algolia" alt="imharris24" height="192px"/>
