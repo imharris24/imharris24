@@ -48,7 +48,7 @@
   <br/>
   <p align="center">
   <a href="https://github.com/imharris24/">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=imharris24&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=imharris24&no-bg=true&no-frame=true&theme=darkhub&column=6" />
   </p>
 </details>
 
