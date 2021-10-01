@@ -61,12 +61,6 @@
 	<a href="https://instagram.com/im_harrisg"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/instagram.png" alt="Instagram"/></a>
 </p>
 
-## 🐍 Snake Eating My Github Contributions!
 <br/>
-
-![snake gif](https://github.com/imharris24/imharris24/blob/main/Resouces/github-contribution-grid-snake.gif)
-<br/>
-
-<hr/>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/blob/main/Resouces/marquee.svg" />
