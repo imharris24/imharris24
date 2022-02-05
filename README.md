@@ -3,13 +3,11 @@
 <p align="center">
    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a>
 </p>
-<hr>
 <h1 align="center">Hi , I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Resouces/HandWave.gif" width="35"></h1>
 <p align="center">
    <a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>	
 <h4 align="center">I am an undergraduate student at Capital University of Science and Technology pursuing Bachelors in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<hr>
 	
 ## 🔥 Streak Stats
 	
@@ -38,7 +36,7 @@
          <img alig src="https://github-profile-trophy.vercel.app/?username=imharris24&no-bg=true&no-frame=true&theme=darkhub&column=6" />
    </p>
 </details>
-<hr>
+	
 ## 🙋‍♀️ Let's Connect
 	
 <p align="center">
