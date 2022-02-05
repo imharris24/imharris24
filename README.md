@@ -38,7 +38,7 @@
          <img alig src="https://github-profile-trophy.vercel.app/?username=imharris24&no-bg=true&no-frame=true&theme=darkhub&column=6" />
    </p>
 </details>
-	
+<hr>
 ## 🙋‍♀️ Let's Connect
 	
 <p align="center">
