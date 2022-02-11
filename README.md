@@ -16,7 +16,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 	
 ## 🔥 Streak Stats
 	
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imharris24&hide_border=true&theme=slateorange&background=FFFFFF00" alt="imharris24"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imharris24&theme=tokyonight_duo" alt="imharris24"  /></p>
 <br/>
 	
 ## 📊 Github Stats (Expand to View) 
@@ -24,22 +24,27 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 <details>
    <summary><b>💻 GitHub Profile Stats</b></summary>
    <br/>
+	<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&theme=github_dark" alt="imharris24"  /></p>
+
+	
+<br/>
+	<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharris24&theme=github_dark&layout=compact" alt="imharris24"  /></p>
+<br/>
+	<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imharris24&theme=github_dark" alt="imharris24"  /></p>
+      <br/>
+	 <br/>
    <p align="center">
-      <a href="https://github.com/imharris24/"><img alt="Harris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&count_private=true&theme=slateorange&hide_border=true&bg_color=00000000" height="192px"/></a>
-      <br/>
-      &nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imharris24&show_icons=true&locale=en&layout=compact&theme=slateorange&hide_border=true&bg_color=00000000" alt="imharris24" height="192px"/>
-      <br/>
+      <a href="https://github.com/imharris24/">
+      <img alig src="https://activity-graph.herokuapp.com/graph?username=imharris24&theme=react-dark" />
+   </p>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
    </p>
 </details>
 <details>
    <summary><b>🏆 GitHub Trophies</b></summary>
-   <br/>
-   <p align="center">
-      <a href="https://github.com/imharris24/">
-      <img alig src="https://github-profile-trophy.vercel.app/?username=imharris24&no-bg=true&no-frame=true&theme=darkhub&column=6" />
-   </p>
+  <p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub" />
+</p>	
 </details>
 	
 ## 🥇 Open Source Projects
