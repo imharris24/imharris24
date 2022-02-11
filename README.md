@@ -42,6 +42,34 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
    </p>
 </details>
 	
+## 🥇 Open Source Projects
+
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/imharris24/Snake-Game"><b>Snake Game</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-Game?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-Game?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-Game?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Snake-Game?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-Game?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+
+<br/>  
 	
 ## 🙋‍♀️ Let's Connect
 	
