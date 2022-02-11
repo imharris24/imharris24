@@ -42,9 +42,11 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 </details>
 <details>
    <summary><b>🏆 GitHub Trophies</b></summary>
+	<br>
   <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub" />
 </p>	
+	
 </details>
 	
 ## 🥇 Open Source Projects
