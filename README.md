@@ -58,7 +58,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/imharris24/Snake-Game"><b>Snake Game</b></a></td>
+<td><a href="https://github.com/imharris24/Snake-Game"><b>Snake Game C++</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-Game?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-Game?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-Game?style=flat-square"/></td>
@@ -66,7 +66,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-Game?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Encryption-Decryption"><b>Encryption Decryption</b></a></td>
+<td><a href="https://github.com/imharris24/Encryption-Decryption"><b>Cipher Techniques C++</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Encryption-Decryption?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Encryption-Decryption?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Encryption-Decryption?style=flat-square"/></td>
@@ -74,7 +74,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Encryption-Decryption?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Fireworks"><b>Fireworks</b></a></td>
+<td><a href="https://github.com/imharris24/Fireworks"><b>Fireworks C++</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Fireworks?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Fireworks?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Fireworks?style=flat-square"/></td>
@@ -82,7 +82,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Fireworks?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Digital-Clock"><b>Digital Clock</b></a></td>
+<td><a href="https://github.com/imharris24/Digital-Clock"><b>Digital Clock C++</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Digital-Clock?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Digital-Clock?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Digital-Clock?style=flat-square"/></td>
