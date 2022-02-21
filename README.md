@@ -21,7 +21,9 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 	
 ## 💻 GitHub Profile Stats
 	
-   <img src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&theme=github_dark" alt="imharris24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharris24&theme=github_dark&layout=compact" alt="imharris24">
+   <img src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&theme=github_dark" alt="imharris24">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharris24&theme=github_dark&layout=compact" alt="imharris24">
 	
    <br/>
  
