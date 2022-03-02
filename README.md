@@ -21,9 +21,9 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 	
 ## 💻 GitHub Profile Stats
 	
-   <img src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&theme=github_dark" alt="imharris24">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&theme=github_dark" alt="imharris24">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharris24&theme=github_dark&layout=compact" alt="imharris24">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharris24&theme=github_dark&layout=compact" alt="imharris24">
 	
    <br/>
  
@@ -58,44 +58,44 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/imharris24/Snake-Game"><b>Snake Game C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-Game?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-Game?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-Game?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Snake-Game?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-Game?style=flat-square"/></td>
+<td><a href="https://github.com/imharris24/Snake-Game-CPP"><b>Snake Game C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-Game-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-Game-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-Game-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Snake-Game-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-Game-CPP?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Encryption-Decryption"><b>Cipher Techniques C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Encryption-Decryption?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Encryption-Decryption?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Encryption-Decryption?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Encryption-Decryption?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Encryption-Decryption?style=flat-square"/></td>
+<td><a href="https://github.com/imharris24/Ceasar-Cipher-CPP"><b>Ceasar Cipher C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Ceasar-Cipher-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Ceasar-Cipher-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Fireworks"><b>Fireworks C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Fireworks?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Fireworks?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Fireworks?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Fireworks?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Fireworks?style=flat-square"/></td>
+<td><a href="https://github.com/imharris24/Fireworks-CPP"><b>Fireworks C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Fireworks-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Fireworks-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Fireworks-CPP?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Digital-Clock"><b>Digital Clock C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Digital-Clock?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Digital-Clock?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Digital-Clock?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Digital-Clock?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Digital-Clock?style=flat-square"/></td>
+<td><a href="https://github.com/imharris24/Digital-Clock-CPP"><b>Digital Clock C++</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Cricket-Academy-Database"><b>Cricket Academy Database</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Cricket-Academy-Database?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Cricket-Academy-Database?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Cricket-Academy-Database?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Cricket-Academy-Database?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Cricket-Academy-Database?style=flat-square"/></td>
+<td><a href="https://github.com/imharris24/Cricket-Academy-DBS"><b>Cricket Academy Database System</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Cricket-Academy-DBS?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Cricket-Academy-DBS?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Cricket-Academy-DBS?style=flat-square"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Cricket-Academy-DBS?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Cricket-Academy-DBS?style=flat-square"/></td>
 </tr>
 </tbody>
 </table>
