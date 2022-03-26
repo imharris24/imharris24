@@ -26,7 +26,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 ## 🏆 GitHub Trophies
 	
 <p align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=onestar">
 </p>	
 </details>
 	
