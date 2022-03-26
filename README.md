@@ -100,8 +100,8 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 ## 🙋‍♀️ Let's Connect
 	
 <p align="center">
-   <a href="mailto:harris20014@gmail.com"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/github.png" alt="Gmail"/></a>
-   <a href="https://github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/gmail.png" alt="GitHub"/></a>
+   <a href="github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/github.png" alt="Github"/></a>
+   <a href="mailto:harris20014@gmail.com"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/gmail.png" alt="Gmail"/></a>
    <a href="https://instagram.com/im_harrisg"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/instagram.png" alt="Instagram"/></a>
 </p>
 <br/>
