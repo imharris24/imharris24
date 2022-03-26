@@ -21,16 +21,7 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 	
 ## 💻 GitHub Profile Stats
 	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imharris24&show_icons=true&theme=github_dark" alt="imharris24">
-
-<br>
-	
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharris24&theme=github_dark&layout=compact" alt="imharris24">
-	
-   <br/>
- 
-   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-   </p>
+[![Tap to Reload](https://metrics.lecoq.io/imharris24?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imharris24)
 	
 ## 🏆 GitHub Trophies
 	
@@ -38,11 +29,6 @@ I am an undergraduate student at <mark style="background-color: lightblue">Capit
 <img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub">
 </p>	
 </details>
-	
-## 📊 More Statistics
-	
-[![Tap to Reload](https://metrics.lecoq.io/imharris24?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imharris24)
-	
 	
 ## 🥇 My Projects
 	
