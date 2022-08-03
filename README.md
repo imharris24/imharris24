@@ -60,30 +60,6 @@ My name is <mark style="background-color: lightblue">Muhammad Harris</mark>. I a
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/TicTacToe-CPP?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/imharris24/Ceasar-Cipher-CPP"><b>Ceasar Cipher C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Ceasar-Cipher-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Ceasar-Cipher-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Ceasar-Cipher-CPP?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/imharris24/Fireworks-CPP"><b>Fireworks C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Fireworks-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Fireworks-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Fireworks-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Fireworks-CPP?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/imharris24/Digital-Clock-CPP"><b>Digital Clock C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Digital-Clock-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Digital-Clock-CPP?style=flat-square"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/imharris24/Cricket-Academy-DBS"><b>Cricket Academy Website</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Cricket-Academy-WEB?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Cricket-Academy-WEB?style=flat-square&labelColor=343b41"/></td>
