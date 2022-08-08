@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/name2.gif" alt="Muhammad Harris"></h1>
+<p align="center"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/muhammad-harris.gif" alt="Muhammad Harris"></p>
 
 
 <p align="center"><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a></p>
