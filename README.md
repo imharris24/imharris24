@@ -96,7 +96,7 @@
 
 <!-- Github Metrics -->
 <h1 align="center">
-	<img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-icon.svg" width="30"/> Github Metrics <img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-icon.svg" width="30"/>
+	<img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-icon.png" width="30"/> Github Metrics <img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-icon.png" width="30"/>
 </h1>
 
 
