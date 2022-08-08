@@ -114,15 +114,17 @@
 <!-- neon-bar -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
-
-<!-- 	
-## 🙋‍♀️ Let's Connect
-	
+<!-- Social Media Links -->
+<h1 align="center">😉 Follow Me On Social Media 😉</h1>
 <p align="center">
-   <a href="github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/github.png" alt="Github"/></a>
-   <a href="mailto:harris20014@gmail.com"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/gmail.png" alt="Gmail"/></a>
-   <a href="https://instagram.com/im_harrisg"><img src="https://github.com/imharris24/imharris24/blob/main/Resouces/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:harris20014@gmail.com"><img src="https://img.shields.io/badge/-harris20014@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+	<a href="https://instagram.com/im_harrisg"><img src="https://img.shields.io/badge/-im_harrisg-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+	<a href="https://www.snapchat.com/add/im_harrisg"><img src="https://img.shields.io/badge/-im_harrisg-FFFC00?style=flat&logo=SnapChat&logoColor=white"/></a>
 </p>
-<br/>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/blob/main/Resouces/marquee.svg" />
--->
+<p align="center">❤ Show Some Love By Starring Some Of My Repositories ❤</p>
+
+<!-- neon-bar -->
+<a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/blob/main/Assets/thanks.svg" />
