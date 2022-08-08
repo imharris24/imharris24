@@ -20,8 +20,56 @@
 <p align="center">I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
 <p align="center">I’m interested in remote opportunities in Software Engineering, Fullstack Web Development and Data Analysis. Send me an email if you think I am a good match for your company.<br>
 	
+<!-- Project Table -->
+## 🥇 My Projects
+<table align="center">
+	<thead align="center">
+		<tr border: none;>
+			<td><b>💻 Projects</b></td>
+			<td><b>🌟 Stars</b></td>
+			<td><b>🍴 Forks</b></td>
+			<td><b>🐛 Issues</b></td>
+			<td><b>🔔 Pull Requests</b></td>
+			<td><b>👨‍💻 Language</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://github.com/imharris24/Snake-Game-CPP"><b>Snake C++</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-CPP?style=flat-square"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Snake-CPP?style=flat-square"/></td>
+			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-CPP?style=flat-square"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/imharris24/TicTacToe-CPP"><b>TicTacToe C++</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/imharris24/Hangman-CPP"><b>Hangman C++</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Hangman-CPP?style=flat-square"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Hangman-CPP?style=flat-square"/></td>
+			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Hangman-CPP?style=flat-square"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/imharris24/Cricket-Academy-DBS"><b>Cricket Academy Website</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Cricket-Academy-WEB?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Cricket-Academy-WEB?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Cricket-Academy-WEB?style=flat-square"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Cricket-Academy-WEB?style=flat-square"/></td>
+			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Cricket-Academy-WEB?style=flat-square"/></td>
+		</tr>
+	</tbody>
+</table>
 	
-	
+<!-- 	
 <a href="https://www.github.com/imharris24"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 	
 ## 🔥 Streak Stats
@@ -40,57 +88,6 @@
 </p>	
 </details>
 	
-## 🥇 My Projects
-	
-<br />
-<table>
-<thead align="center">
-<tr border: none;>
-<td><b>💻 Projects</b></td>
-<td><b>🌟 Stars</b></td>
-<td><b>🍴 Forks</b></td>
-<td><b>🐛 Issues</b></td>
-<td><b>🔔 Pull Requests</b></td>
-<td><b>👨‍💻 Language</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/imharris24/Snake-Game-CPP"><b>Snake C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Snake-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-CPP?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/imharris24/TicTacToe-CPP"><b>TicTacToe C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/TicTacToe-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/TicTacToe-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/TicTacToe-CPP?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/imharris24/Hangman-CPP"><b>Hangman C++</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Hangman-CPP?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Hangman-CPP?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Hangman-CPP?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/imharris24/Cricket-Academy-DBS"><b>Cricket Academy Website</b></a></td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Cricket-Academy-WEB?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Cricket-Academy-WEB?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Cricket-Academy-WEB?style=flat-square"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Cricket-Academy-WEB?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Cricket-Academy-WEB?style=flat-square"/></td>
-</tr>
-</tbody>
-</table>
-<br/>  
-	
 ## 🙋‍♀️ Let's Connect
 	
 <p align="center">
@@ -100,3 +97,4 @@
 </p>
 <br/>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/blob/main/Resouces/marquee.svg" />
+-->
