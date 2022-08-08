@@ -102,26 +102,10 @@
 	<img src="https://metrics.lecoq.io/imharris24?template=classic&isocalendar=1&languages=1&stargazers=1&projects=1&achievements=1&lines=1&traffic=1&starlists=1&calendar=1&skyline=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar.limit=1&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=Asia%2FKarachi">
 </p>
 
+<!-- neon-bar -->
+<a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
 <!-- 	
-<a href="https://www.github.com/imharris24"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-	
-## 🔥 Streak Stats
-	
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imharris24&theme=tokyonight_duo" alt="imharris24"  /></p>
-<br/>
-	
-## 💻 GitHub Profile Stats
-	
-[![Tap to Reload](https://metrics.lecoq.io/imharris24?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/imharris24)
-	
-## 🏆 GitHub Trophies
-	
-<p align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=onestar">
-</p>	
-</details>
-	
 ## 🙋‍♀️ Let's Connect
 	
 <p align="center">
