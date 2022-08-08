@@ -6,10 +6,13 @@
 <p align="center"><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a></p>
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
-<!-- Name + Auto-Type + Profile-Bio -->
+<!-- Initial -->
 <h2 align="center">Hi, I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Assets/wave-hand.gif" width="30"></h2>
+
+<!-- Auto-Type -->
 <p align="center"><a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a></p>
 
+<!-- Profile Description -->
 <p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am currently studying at Rajuk Uttara Model College. I started my programming journey when I was 12 years old.</p>
 
 <p align="center">From the moment I printed the “Hello World” in the console of my first application, I knew I was hooked into the world of programming, But programming was never been “just a side hustle” for me, it’s offered me an engaging challenge to continually learn and improve my skills in creating high-quality applications. What started with a simple “Hello World” has become a full-fledged passion that only gets more exciting as the years go by.</p>
