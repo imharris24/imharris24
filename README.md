@@ -80,7 +80,7 @@
 <h1 align="center">🏆 Trophies & Streak Stats 🏆</h1>
 <!-- Trophies -->
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=imharris24&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=imharris24&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
 </p>
 <p align="center">
 	<!-- Left Wing -->
