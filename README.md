@@ -1,13 +1,13 @@
 <!-- Muhammad-Harris.gif -->
 <p align="center"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/muhammad-harris.gif" alt="Muhammad Harris"></p>
 
-<!-- Neon-Bar.gif with View-Counter -->
+<!-- 2 Neon-Bar.gif with View-Counter -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 <p align="center"><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a></p>
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
 <!-- Initial -->
-<h2 align="center">Hi, I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Assets/wave-hand.gif" width="30"></h2>
+<h1 align="center">Hi, I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Assets/wave-hand.gif" width="30"></h1>
 
 <!-- Auto-Type -->
 <p align="center"><a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a></p>
@@ -19,9 +19,12 @@
 <p align="center">I have experience with Data Structures and Algorithms, Object-Oriented Programming, C/C++, JavaScript, NodeJS, React, MySQL, Bootstrap CSS, Tailwind CSS, PHP, PowerShell, Git & GitHub, Kotlin, Python etc.</p>
 <p align="center">I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
 <p align="center">I’m interested in remote opportunities in Software Engineering, Fullstack Web Development and Data Analysis. Send me an email if you think I am a good match for your company.<br>
+
+<!-- neon-bar -->
+<a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 	
 <!-- Project Table -->
-## 🥇 My Projects
+<h1 align="center">🥇 My Projects 🥇</h1>
 <table align="center">
 	<thead align="center">
 		<tr border: none;>
@@ -68,7 +71,18 @@
 		</tr>
 	</tbody>
 </table>
-	
+<br>
+
+<!-- neon-bar -->
+<a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
+
+
+
+
+
+
+
+
 <!-- 	
 <a href="https://www.github.com/imharris24"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 	
