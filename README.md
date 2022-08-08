@@ -105,7 +105,12 @@
 <!-- neon-bar -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
-<!-- -->
+<!-- Contribution Snake -->
+<h1 align="center">🐍 Snake Eating My Contributions! 🐍</h1>
+<p align="center">
+	<img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-snake.svg"/>
+</p>
+
 <!-- 	
 ## 🙋‍♀️ Let's Connect
 	
