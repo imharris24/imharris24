@@ -1,10 +1,12 @@
+<!-- Muhammad-Harris.gif -->
 <p align="center"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/muhammad-harris.gif" alt="Muhammad Harris"></p>
 
+<!-- Neon-Bar.gif with View-Counter -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 <p align="center"><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a></p>
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
-
+<!-- Name + Auto-Type + Profile-Bio -->
 <h2 align="center">Hi, I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Assets/wave-hand.gif" width="30"></h2>
 <p align="center"><a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a></p>
 
