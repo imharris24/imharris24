@@ -79,7 +79,9 @@
 <!-- Trophies, Wings and Streak Stats -->
 <h1 align="center">🏆 Trophies & Streak Stats 🏆</h1>
 <!-- Trophies -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=imharris24&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"></p>
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=imharris24&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+</p>
 <p align="center">
 	<!-- Left Wing -->
 	<img height="150" width="150" src="https://github.com/imharris24/imharris24/blob/main/Assets/left-wing.webp">
@@ -88,6 +90,9 @@
 	<!-- Right Wing -->
 	<img height="150" width="150" src="https://github.com/imharris24/imharris24/blob/main/Assets/right-wing.webp">
 </p>
+
+<!-- neon-bar -->
+<a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
 
 
