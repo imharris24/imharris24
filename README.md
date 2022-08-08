@@ -98,7 +98,9 @@
 <h1 align="center">
 	<img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-icon.png" width="30"/> Github Metrics <img src="https://github.com/imharris24/imharris24/blob/main/Assets/git-icon.png" width="30"/>
 </h1>
-
+<p align="center">
+	<img src="https://metrics.lecoq.io/imharris24?template=classic&isocalendar=1&languages=1&stargazers=1&projects=1&achievements=1&lines=1&traffic=1&starlists=1&calendar=1&skyline=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar.limit=1&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=Asia%2FKarachi">
+</p>
 
 
 <!-- 	
