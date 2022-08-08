@@ -105,6 +105,7 @@
 <!-- neon-bar -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
+<!-- -->
 <!-- 	
 ## 🙋‍♀️ Let's Connect
 	
