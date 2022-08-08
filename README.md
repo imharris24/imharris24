@@ -6,9 +6,7 @@
 
 
 <h2 align="center">Hi, I'm Muhammad Harris <img src="https://github.com/imharris24/imharris24/blob/main/Assets/wave-hand.gif" width="30"></h2>
-<p align="center">
-   <a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+<p align="center"><a href="https://github.com/imharris24/imharris24"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;Future+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a></p>
 <a href="https://www.github.com/imharris24"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
