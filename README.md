@@ -126,5 +126,5 @@
 <!-- neon-bar -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 
-
+<!-- Good Bye Gif -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/blob/main/Assets/thanks.svg" />
