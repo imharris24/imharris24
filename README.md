@@ -1,6 +1,3 @@
-<!-- Muhammad-Harris.gif -->
-<p align="center"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/muhammad-harris.gif" alt="Muhammad Harris"></p>
-
 <!-- 2 Neon-Bar.gif with View-Counter -->
 <a href="https://www.github.com/imharris24"><img src="https://github.com/imharris24/imharris24/blob/main/Assets/neon-bar.gif"></a>
 <p align="center"><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imharris24"></a></p>
