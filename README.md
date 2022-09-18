@@ -38,6 +38,14 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="https://github.com/imharris24/GifGifGo-JS"><b>Gif-Gif Go!</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/GifGifGo-JS?style=flat-square"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/GifGifGo-JS?style=flat-square"/></td>
+			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/GifGifGo-JS?style=flat-square"/></td>
+		</tr>
+		<tr>
 			<td><a href="https://github.com/imharris24/Snake-Game-CPP"><b>Snake C++</b></a></td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
