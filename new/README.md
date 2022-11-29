@@ -194,3 +194,21 @@
 
 <br>
 <hr>
+
+
+<!-- SVG typing for streat stats and trophies -->
+<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=Streak+Stats+and+Trophies" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<!-- streak stats -->
+<!-- reference = https://github.com/DenverCoder1/github-readme-streak-stats -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://streak-stats.demolab.com?user=imharris24&theme=dark&hide_border=true&border_radius=0&background=0C0C0900">
+  <a>
+</div>
