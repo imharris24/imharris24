@@ -29,7 +29,7 @@
 <hr>
 
 
-<!-- SVG typing -->
+<!-- SVG typing for bio -->
 <!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
   <a href="https://github.com/imharris24">
