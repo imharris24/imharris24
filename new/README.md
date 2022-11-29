@@ -14,3 +14,13 @@
     <img height=auto width=50% src="https://github-widgetbox.vercel.app/api/profile?username=imharris24&data=followers,repositories,stars,commits&theme=darkmode">
   </a>
 </div>
+
+<hr>
+
+<!-- SVG typing -->
+<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=F5F5F6&center=true&width=435&lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;Ethical+Hacker" alt="Typing SVG" />
+  </a>
+</div>
