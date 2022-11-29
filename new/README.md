@@ -46,4 +46,10 @@
 </div>
 
 
-
+<!-- quote -->
+<!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  </a>
+</div>
