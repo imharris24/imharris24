@@ -69,3 +69,106 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=My+Projects" alt="Typing SVG" />
   </a>
 </div>
+
+
+<!-- table for projects -->
+<div align="center">
+  <table align="center">
+	  <thead align="center">
+		  <tr border: none;>
+			  <td><b>💻 Projects</b></td>
+			  <td><b>🌟 Stars</b></td>
+			  <td><b>🍴 Forks</b></td>
+			  <td><b>🐛 Issues</b></td>
+			  <td><b>🔔 Pull Requests</b></td>
+			  <td><b>👨‍💻 Language</b></td>
+		  </tr>
+	  </thead>
+	  <tbody>
+		  <tr>
+			  <td><a href="https://github.com/imharris24/RockPaperScissors-PY"><b>Rock Paper Scissors Game</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/RockPaperScissors-PY?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/RockPaperScissors-PY?style=flat-square&labelColor=343b41"/></td>
+		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/RockPaperScissors-PY?style=flat-square"/></td>
+			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/RockPaperScissors-PY?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/RockPaperScissors-PY?style=flat-square"/></td>
+	  	</tr>
+		  <tr>
+			  <td><a href="https://github.com/imharris24/BinaryCalculator-CPP"><b>Binary Calculator</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/BinaryCalculator-CPP?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/BinaryCalculator-CPP?style=flat-square&labelColor=343b41"/></td>
+		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/BinaryCalculator-CPP?style=flat-square"/></td>
+			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/BinaryCalculator-CPP?style=flat-square"/></td>
+			  <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/BinaryCalculator-CPP?style=flat-square"/></td>
+		  </tr>
+  		<tr>
+  			<td><a href="https://github.com/imharris24/GifGifGo-JS"><b>Gif-Gif Go!</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/GifGifGo-JS?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/GifGifGo-JS?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/GifGifGo-JS?style=flat-square"/></td>
+  		</tr>
+  		<tr>
+  			<td><a href="https://github.com/imharris24/RockPaperScissors-JS"><b>Rock Paper Scissors Game</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/RockPaperScissors-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/RockPaperScissors-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/RockPaperScissors-JS?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/RockPaperScissors-JS?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/RockPaperScissors-JS?style=flat-square"/></td>
+  		</tr>
+  		<tr>
+  			<td><a href="https://github.com/imharris24/MatchTheCards-JS"><b>Match The Cards Game</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/MatchTheCards-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/MatchTheCards-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/MatchTheCards-JS?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/MatchTheCards-JS?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/MatchTheCards-JS?style=flat-square"/></td>
+  		</tr>
+  		<tr>
+  			<td><a href="https://github.com/imharris24/Stopwatch-JS"><b>Stopwatch</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Stopwatch-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Stopwatch-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Stopwatch-JS?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Stopwatch-JS?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Stopwatch-JS?style=flat-square"/></td>
+  		</tr>
+  		<tr>
+  			<td><a href="https://github.com/imharris24/Snake-CPP"><b>Snake Game</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-CPP?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Snake-CPP?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-CPP?style=flat-square"/></td>
+	  	</tr>
+	  	<tr>
+  			<td><a href="https://github.com/imharris24/TicTacToe-CPP"><b>TicTacToe Game</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+	  		<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/TicTacToe-CPP?style=flat-square"/></td>
+	  	</tr>
+  		<tr>
+  			<td><a href="https://github.com/imharris24/Hangman-CPP"><b>Hangman Game</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Hangman-CPP?style=flat-square"/></td>
+	  		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Hangman-CPP?style=flat-square"/></td>
+	  		<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Hangman-CPP?style=flat-square"/></td>
+	  	</tr>
+	  	<tr>
+	  		<td><a href="https://github.com/imharris24/CAM-WEB"><b>Cricket Academy Manager</b></a></td>
+	  		<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/CAM-WEB?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/CAM-WEB?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/CAM-WEB?style=flat-square"/></td>
+	  		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/CAM-WEB?style=flat-square"/></td>
+	  		<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/CAM-WEB?style=flat-square"/></td>
+	  	</tr>
+	  </tbody>
+  </table>
+</div>
+
+
+<br>
+<hr>
