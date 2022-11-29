@@ -172,3 +172,25 @@
 
 <br>
 <hr>
+
+
+<!-- SVG typing for tech stack -->
+<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=TechStack;Technologies" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<!-- tech stack -->
+<!-- reference = https://github.com/tandpfun/skill-icons -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,mysql,nodejs,md,matlab,linux,powershell,git,github,stackoverflow,visualstudio,vscode,figma,bootstrap,tailwind&perline=7" />
+  </a>
+</div>
+
+
+<br>
+<hr>
