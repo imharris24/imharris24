@@ -15,7 +15,19 @@
   </a>
 </div>
 
+<!-- profile views -->
+<!-- reference = https://github.com/Naereen/badges -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://gpvc.arturio.dev/imharris24">
+  </a>
+</div>
+<!-- other profile views counter -->
+<!-- https://count.getloli.com/get/@:imharris24 -->
+
+
 <hr>
+
 
 <!-- SVG typing -->
 <!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
