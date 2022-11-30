@@ -2,7 +2,7 @@
 <!-- reference = https://github.com/leviarista/github-profile-header-generator -->
 <div align="center">
   <a href="https://github.com/imharris24">
-    <img src="https://github.com/imharris24/imharris24/blob/main/new/assets/github-header-image.png">
+    <img src="https://github.com/imharris24/imharris24/blob/main/assets/github-header-image.png">
   </a>
 </div>
 
