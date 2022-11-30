@@ -260,7 +260,7 @@
 <!-- icon reference =  https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
   <!-- portfolio -->
-  <a href="https://imharris24/github.io">
+  <a href="https://imharris24.github.io">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
   <a>
   <!-- mail -->
