@@ -15,11 +15,14 @@
   </a>
 </div>
 
-<!-- profile views -->
+<!-- profile views & stars -->
 <!-- reference = https://github.com/Naereen/badges -->
 <div align="center">
   <a href="https://github.com/imharris24">
+    <!-- page views -->
     <img src="https://gpvc.arturio.dev/imharris24">
+    <!-- stars -->
+    <img src="https://img.shields.io/github/stars/imharris24?label=Stars">
   </a>
 </div>
 <!-- other profile views counter -->
