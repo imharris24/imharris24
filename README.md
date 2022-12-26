@@ -129,12 +129,12 @@
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/RockPaperScissors-PY?style=flat-square"/></td>
 	  	</tr>
 		  <tr>
-			  <td><a href="https://github.com/imharris24/BinaryCalculator-CPP"><b>Binary Calculator (C++)</b></a></td>
-  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/BinaryCalculator-CPP?style=flat-square&labelColor=343b41"/></td>
-	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/BinaryCalculator-CPP?style=flat-square&labelColor=343b41"/></td>
-		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/BinaryCalculator-CPP?style=flat-square"/></td>
-			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/BinaryCalculator-CPP?style=flat-square"/></td>
-			  <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/BinaryCalculator-CPP?style=flat-square"/></td>
+			  <td><a href="https://github.com/imharris24/Binary-Calculator-CPP"><b>Binary Calculator (C++ Console)</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Binary-Calculator-CPP?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Binary-Calculator-CPP?style=flat-square&labelColor=343b41"/></td>
+		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
+			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
+			  <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
 		  </tr>
   		<tr>
   			<td><a href="https://github.com/imharris24/RockPaperScissors-JS"><b>Rock Paper Scissors (Javascript)</b></a></td>
@@ -161,7 +161,7 @@
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Stopwatch-JS?style=flat-square"/></td>
   		</tr>
   		<tr>
-  			<td><a href="https://github.com/imharris24/Snake-CPP"><b>Snake (C++)</b></a></td>
+  			<td><a href="https://github.com/imharris24/Snake-CPP"><b>Snake (C++ Console)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
   			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
   			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Snake-CPP?style=flat-square"/></td>
@@ -169,7 +169,7 @@
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Snake-CPP?style=flat-square"/></td>
 	  	</tr>
 	  	<tr>
-  			<td><a href="https://github.com/imharris24/TicTacToe-CPP"><b>TicTacToe (C++)</b></a></td>
+  			<td><a href="https://github.com/imharris24/TicTacToe-CPP"><b>TicTacToe (C++ Console)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
   			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/TicTacToe-CPP?style=flat-square&labelColor=343b41"/></td>
   			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/TicTacToe-CPP?style=flat-square"/></td>
@@ -177,7 +177,7 @@
 	  		<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/TicTacToe-CPP?style=flat-square"/></td>
 	  	</tr>
   		<tr>
-  			<td><a href="https://github.com/imharris24/Hangman-CPP"><b>Hangman (C++)</b></a></td>
+  			<td><a href="https://github.com/imharris24/Hangman-CPP"><b>Hangman (C++ Console)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
   			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Hangman-CPP?style=flat-square&labelColor=343b41"/></td>
 	  		<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Hangman-CPP?style=flat-square"/></td>
