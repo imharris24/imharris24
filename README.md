@@ -88,14 +88,6 @@
 		  </tr>
 	  </thead>
 	  <tbody>
-	  	<tr>
-  			<td><a href="https://github.com/imharris24/GifGifGo-JS"><b>Gif-Gif Go! (Web App)</b></a></td>
-  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
-  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
-  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/GifGifGo-JS?style=flat-square"/></td>
-  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/GifGifGo-JS?style=flat-square"/></td>
-  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/GifGifGo-JS?style=flat-square"/></td>
-  		</tr>
 		  <tr>
 			  <td><a href="https://github.com/imharris24/QR-Code-Generator-PY"><b>QR code Generator (Python Terminal)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/QR-Code-Generator-PY?style=flat-square&labelColor=343b41"/></td>
@@ -137,13 +129,13 @@
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/RockPaperScissors-PY?style=flat-square"/></td>
 	  	</tr>
 		  <tr>
-			  <td><a href="https://github.com/imharris24/Binary-Calculator-CPP"><b>Binary Calculator (C++ Console)</b></a></td>
-  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Binary-Calculator-CPP?style=flat-square&labelColor=343b41"/></td>
-	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Binary-Calculator-CPP?style=flat-square&labelColor=343b41"/></td>
-		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
-			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
-			  <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
-		  </tr>
+  			<td><a href="https://github.com/imharris24/GifGifGo-JS"><b>Gif-Gif Go! (Web App)</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/GifGifGo-JS?style=flat-square&labelColor=343b41"/></td>
+  			<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/GifGifGo-JS?style=flat-square"/></td>
+  			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/GifGifGo-JS?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/GifGifGo-JS?style=flat-square"/></td>
+  		</tr>
   		<tr>
   			<td><a href="https://github.com/imharris24/RockPaperScissors-JS"><b>Rock Paper Scissors (Web App)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/RockPaperScissors-JS?style=flat-square&labelColor=343b41"/></td>
@@ -168,6 +160,14 @@
   			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Stopwatch-JS?style=flat-square"/></td>
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Stopwatch-JS?style=flat-square"/></td>
   		</tr>
+		  <tr>
+			  <td><a href="https://github.com/imharris24/Binary-Calculator-CPP"><b>Binary Calculator (C++ Console)</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Binary-Calculator-CPP?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Binary-Calculator-CPP?style=flat-square&labelColor=343b41"/></td>
+		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
+			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
+			  <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Binary-Calculator-CPP?style=flat-square"/></td>
+		  </tr>
   		<tr>
   			<td><a href="https://github.com/imharris24/Snake-CPP"><b>Snake (C++ Console)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=flat-square&labelColor=343b41"/></td>
