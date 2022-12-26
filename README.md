@@ -200,6 +200,24 @@
 <br>
 <hr>
 
+<!-- SVG typing for tech stack -->
+<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=LeetCode+Stats" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<!-- leetcode stats -->
+<!-- reference = https://leetcard,jacoblin.cool -->
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://leetcard.jacoblin.cool/imharris24?theme=dark&font=Laila&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<hr>
 
 <!-- SVG typing for tech stack -->
 <!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
