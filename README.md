@@ -96,6 +96,14 @@
 			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/QR-Mate-APP?style=flat-square"/></td>
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/QR-Mate-APP?style=flat-square"/></td>
 	  	</tr>
+		   <tr>
+			  <td><a href="https://github.com/imharris24/Pong-Game-PY"><b>Pong Game (Python App)</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Pong-Game-PY?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Pong-Game-PY?style=flat-square&labelColor=343b41"/></td>
+		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/Pong-Game-PY?style=flat-square"/></td>
+			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/Pong-Game-PY?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/Pong-Game-PY?style=flat-square"/></td>
+	  	</tr>
 		  <tr>
 			  <td><a href="https://github.com/imharris24/QR-Code-Generator-PY"><b>QR code Generator (Python Terminal)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/QR-Code-Generator-PY?style=flat-square&labelColor=343b41"/></td>
