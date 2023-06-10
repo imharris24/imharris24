@@ -6,15 +6,6 @@
   </a>
 </div>
 
-
-<!-- profile widget -->
-<!-- reference = https://github.com/Jurredr/github-widgetbox -->
-<div align="center">
-  <a href="https://github.com/imharris24">
-    <img height=auto width=50% src="https://github-widgetbox.vercel.app/api/profile?username=imharris24&data=followers,repositories,stars,commits&theme=darkmode">
-  </a>
-</div>
-
 <!-- profile views & stars -->
 <!-- reference = https://github.com/Naereen/badges -->
 <div align="center">
@@ -246,7 +237,7 @@
 <!-- reference = https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <a href="https://github.com/imharris24">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,mysql,nodejs,md,matlab,linux,powershell,git,github,stackoverflow,visualstudio,vscode,figma,bootstrap,tailwind&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,mysql,md,linux,github,visualstudio,vscode,figma,bootstrap,tailwind,angular,idea,jquery,materialui,ts&perline=7" />
   </a>
 </div>
 
