@@ -94,6 +94,14 @@
   			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/The-Headline-WEB?style=flat-square"/></td>
 	  	</tr>
 		  <tr>
+			  <td><a href="https://www.github.com/imharris24/WordPress-Template-Clone"><b>WordPress Portfolio Clone (Web App)</b></a></td>
+  			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/WordPress-Template-Clone?style=flat-square&labelColor=343b41"/></td>
+	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/WordPress-Template-Clone?style=flat-square&labelColor=343b41"/></td>
+		  	<td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/WordPress-Template-Clone?style=flat-square"/></td>
+			  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/WordPress-Template-Clone?style=flat-square"/></td>
+  			<td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/WordPress-Template-Clone?style=flat-square"/></td>
+	  	</tr>
+		  <tr>
 			  <td><a href="https://www.github.com/imharris24/Calculator-WEB"><b>Calculator (Web App)</b></a></td>
   			<td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/Calculator-WEB?style=flat-square&labelColor=343b41"/></td>
 	  		<td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/Calculator-WEB?style=flat-square&labelColor=343b41"/></td>
