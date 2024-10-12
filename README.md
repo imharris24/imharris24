@@ -22,17 +22,13 @@
 </a>  
   
 ### Glad to see you here!  
-👋 Hey there, fellow tech explorers! I'm Muhammad Harris, your friendly neighborhood AI enthusiast, and I'm thrilled to welcome you to my GitHub playground. 🤖🔬
+Hello, I'm Muhammad Harris, an AI enthusiast with a strong focus on Artificial Intelligence, Machine Learning, and Data Science. I am passionate about leveraging technology to solve complex problems and drive innovation in the AI space.
 
-In this digital realm, I'm all about diving deep into the fascinating realms of Artificial Intelligence, Machine Learning, and Data Science. With a strong knack for wrangling data and coaxing meaningful insights from the bits and bytes, I'm on a never-ending quest to sharpen my skills and unravel the mysteries of the AI universe.
+On this platform, I work on projects that delve into generative AI, Natural Language Processing (NLP), and machine learning models, with the goal of developing systems that can produce creative outputs and drive meaningful insights from data. My primary programming language is Python, and I often use React to create user-centric interfaces.
 
-My journey on GitHub is all about the pursuit of generative AI wizardry. 🧙‍♂️ I'm utterly captivated by the magic of creating AI systems that can dream up art, stories, and even new realities. When I'm not brainstorming neural network architectures, you might catch me lost in the enchanting world of Natural Language Processing, teaching machines to understand the subtleties of human expression.
+I am continuously learning and expanding my expertise in AI while being mindful of the ethical implications that come with it. My goal is to contribute to the development of technologies that enhance user experiences and create lasting impact.
 
-Python is my trusty wand, and React is my spell for crafting interactive interfaces that weave technology and user experience seamlessly. I believe that AI isn't just about algorithms and models; it's about crafting experiences that feel almost magical to users.
-
-Off the digital canvas, you might find me lost in the pages of a sci-fi novel or debating the implications of AI ethics over a cup of steaming coffee. I'm a firm believer that curiosity knows no bounds, and I'm always eager to learn, share, and collaborate with fellow adventurers in the AI landscape.
-
-So, whether you're a seasoned AI sorcerer or just dipping your toes into the binary waters, join me on this captivating journey of code, creativity, and curiosity. Feel free to explore my projects, share your thoughts, and let's spark some casual conversations about the incredible possibilities that AI, ML, and Data Science bring to our world. 🌌🚀
+Please feel free to explore my projects and reach out if you're interested in collaborating on AI, ML, or data-driven projects. Let's push the boundaries of what's possible with technology together.
   
 <hr>
 
@@ -53,6 +49,14 @@ So, whether you're a seasoned AI sorcerer or just dipping your toes into the bin
          </tr>
       </thead>
       <tbody>
+	      <tr>
+            <td><a href="https://github.com/imharris24/AndroCom-Android"><b>Androom - Infrastructureless Android Communication</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/AndroCom-Android?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/imharris24/AndroCom-Android?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/imharris24/AndroCom-Android?style=flat-square"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/imharris24/AndroCom-Android?style=flat-square"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/imharris24/AndroCom-Android?style=flat-square"/></td>
+         </tr>
          <tr>
             <td><a href="https://github.com/imharris24/QR-Mate-APP"><b>QR Mate (GUI App)</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/imharris24/QR-Mate-APP?style=flat-square&labelColor=343b41"/></td>
@@ -74,7 +78,7 @@ So, whether you're a seasoned AI sorcerer or just dipping your toes into the bin
 
 <div align="center">
   <a href="https://github.com/imharris24">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,git,github,idea,jquery,linux,md,mysql,netlify,powershell,react&perline=15" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,kotlin,bash,powershell,html,css,react,bootstrap,tailwind,nodejs,mysql,git,github,firebase,netlify,vercel,androidstudio,vscode,visualstudio,webstorm,vite,pycharm,sublime,vscodium,linux,arch,ubuntu,windows,kali,md,postman,raspberrypi,sklearn,npm,&perline=13" />
   </a>
 </div>
 
@@ -99,20 +103,3 @@ So, whether you're a seasoned AI sorcerer or just dipping your toes into the bin
 	  
 <hr>
 	  
-<div align="center">
-  <h2>Github Statistics</h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/imharris24">
-    <img src="https://metrics.lecoq.io/imharris24?template=classic&isocalendar=1&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FKarachi">
-  </a>
-</div>
-
-<hr>
-
-<div align="center">
-  <a href="https://github.com/imharris24">
-    <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/blob/main/assets/gif.svg">
-  </a>
-</div>
